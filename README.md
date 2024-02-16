@@ -11,24 +11,17 @@
 - Git lecture one part one from iti
 ~~~
 
-#### Day 2
+#### Day 2 & 3
 
 ~~~
 - the topics related to neso course from lec 0 -> lec 11
 ~~~
 
-#### Day 3 & 4
+#### Day  4 & 5
 
 ~~~
 - the topics related to neso course from lec 18 -> lec 41
 ~~~
-
-#### Day 5
-
-~~~
-- the topics related to neso course from lec 85 -> lec 92
-~~~
-
 
 ### Task day 6 & 7
 
