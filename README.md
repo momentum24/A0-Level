@@ -25,6 +25,6 @@
 
 ### Task day 6 & 7
 
-[Task 1](https://drive.google.com/file/d/1PT7jDHX_ursdG6GBsvobXT5_YMbdtk9c/view?usp=sharing)
+* [Task 1](https://drive.google.com/file/d/1PT7jDHX_ursdG6GBsvobXT5_YMbdtk9c/view?usp=sharing)
 
-[Quiz](https://forms.gle/imZvhxeMQihQJiiq8)
+* [Quiz](https://forms.gle/imZvhxeMQihQJiiq8)
