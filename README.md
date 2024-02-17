@@ -28,3 +28,9 @@
 * [Task 1](https://drive.google.com/file/d/1PT7jDHX_ursdG6GBsvobXT5_YMbdtk9c/view?usp=sharing)
 
 * [Quiz](https://forms.gle/imZvhxeMQihQJiiq8)
+
+
+
+* you can see This repo from eng Khaled Hegazy from the internal trainning 
+
+* [Internal Trainning 2023](https://github.com/KhaledHegazy222/software-camp-training-2023/blob/main/Session1.md)
