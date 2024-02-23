@@ -50,6 +50,7 @@
 - [function p1](https://www.youtube.com/watch?v=HFlOX_2USsw&list=PLoiqjtgvXf9cgQbnEyRpT8FmtAZHUHG2O&index=8)
 
 - [function p2](https://www.youtube.com/watch?v=dNoKxMeCeGw&list=PLoiqjtgvXf9cgQbnEyRpT8FmtAZHUHG2O&index=9)
+<p>&nbsp;</p>
 
 #### Day 2
 
@@ -58,6 +59,7 @@
 - [Data Modifiers p1](https://www.youtube.com/watch?v=FekezpGUPAM&list=PLoiqjtgvXf9cgQbnEyRpT8FmtAZHUHG2O&index=10)
 
 - [Data Modifiers p2](https://www.youtube.com/watch?v=wYvpmKeE-zU&list=PLoiqjtgvXf9cgQbnEyRpT8FmtAZHUHG2O&index=11)
+<p>&nbsp;</p>
 
 #### Day 3 & 4 & 5
 
