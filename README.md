@@ -72,3 +72,5 @@
 - [Pointers P3](https://youtu.be/SI1Kyp3sJRc?si=PvcEgbn3C9eIuvkJ)
 
 متزعلش ياصحبي الموضوع بسيط يعني
+
+هنزل لك التاسك والكويز لا تقلق
