@@ -74,3 +74,5 @@
 متزعلش ياصحبي الموضوع بسيط إن شاءالله
 
 هنزل لك التاسك والكويز لا تقلق
+
+- [functions Quiz](https://forms.gle/VebYK7VhNLh78Dkw9)
