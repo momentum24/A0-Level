@@ -10,11 +10,13 @@
 
 * building process
 
-* [building process](https://www.udemy.com/course/embedded-system-tooling-basic/learn/lecture/41092330#overview)
+* [intro to building process](https://www.udemy.com/course/embedded-system-tooling-basic/learn/lecture/41092330#overview)
 
 * [IDE vs Text Editor](https://www.udemy.com/course/embedded-system-tooling-basic/learn/lecture/41115622#overview)
 
-* [intro toGit & Github](https://drive.google.com/file/d/18jpn4gpQnMvXXGFaEwMxvZV1QJhoHvxM/view?usp=drive_link)
+* Git & Github
+
+* [intro to Git & Github](https://drive.google.com/file/d/18jpn4gpQnMvXXGFaEwMxvZV1QJhoHvxM/view?usp=drive_link)
 <p>&nbsp;</p>
 
 #### Day 2 & 3
