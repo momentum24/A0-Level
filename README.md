@@ -14,6 +14,8 @@
 
 * [IDE vs Text Editor](https://www.udemy.com/course/embedded-system-tooling-basic/learn/lecture/41115622#overview)
 
+<p>&nbsp;</p>
+
 * Git & Github
 
 * [intro to Git & Github](https://drive.google.com/file/d/18jpn4gpQnMvXXGFaEwMxvZV1QJhoHvxM/view?usp=drive_link)
