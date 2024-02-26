@@ -3,6 +3,12 @@
 ## Week_One
 
 ### Content
+~~~
+- C Basics
+- Operators
+- Conditional Statements 
+- Loops
+~~~
 
 <p>&nbsp;</p>
 
@@ -34,7 +40,7 @@
 
 * [C Basics P3](https://youtu.be/auGvwQHUvlY?si=MV9AtJ4Alhso82wj)
 
-* [Conditional Statements](https://youtu.be/rIu2IEM9I1c?si=U-xztoNMXGkiN8ZD)
+* [Conditional Statements & Loops](https://youtu.be/rIu2IEM9I1c?si=U-xztoNMXGkiN8ZD)
 
 <p>&nbsp;</p>
 
