@@ -4,24 +4,35 @@
 
 ### Content
 
+<p>&nbsp;</p>
+
 #### Day 1
 
-~~~
-- building process {section 1 & section 2}
-- Git lecture one part one from iti
-~~~
+* building process
+
+* [building process](https://www.udemy.com/course/embedded-system-tooling-basic/learn/lecture/41092330#overview)
+
+* [IDE vs Text Editor](https://www.udemy.com/course/embedded-system-tooling-basic/learn/lecture 41115622#overview)
+
+* [intro toGit & Github](https://drive.google.com/file/d/18jpn4gpQnMvXXGFaEwMxvZV1QJhoHvxM/view?usp=drive_link)
+<p>&nbsp;</p>
 
 #### Day 2 & 3
 
-~~~
-- the topics related to neso course from lec 0 -> lec 11
-~~~
+* [C Basics P1](https://youtu.be/gvA3MGSgalU?si=_Qv__wbsJdr9UT4m)
+
+* [C Basics P2](https://youtu.be/Xt79bGH_NH0?si=q_noerBYoJIyQaN4)
+
+
+<p>&nbsp;</p>
 
 #### Day  4 & 5
 
-~~~
-- the topics related to neso course from lec 18 -> lec 41
-~~~
+* [C Basics P3](https://youtu.be/auGvwQHUvlY?si=MV9AtJ4Alhso82wj)
+
+* [Conditional Statements](https://youtu.be/rIu2IEM9I1c?si=U-xztoNMXGkiN8ZD)
+
+<p>&nbsp;</p>
 
 ### Task day 6 & 7
 
@@ -42,6 +53,12 @@
 ## Week_Two
 
 ### Content
+
+~~~
+- Functions
+- Data Modifiers
+- Pointers
+~~~
 
 #### Day 1
 
@@ -71,8 +88,6 @@
 
 - [Pointers P3](https://youtu.be/SI1Kyp3sJRc?si=PvcEgbn3C9eIuvkJ)
 
-متزعلش ياصحبي الموضوع بسيط إن شاءالله
+<p>&nbsp;</p>
 
-هنزل لك التاسك والكويز لا تقلق
-
-- [functions Quiz](https://forms.gle/VebYK7VhNLh78Dkw9)
+* [functions Quiz](https://forms.gle/VebYK7VhNLh78Dkw9)
