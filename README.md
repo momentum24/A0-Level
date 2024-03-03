@@ -87,6 +87,9 @@
 - [Data Modifiers p1](https://www.youtube.com/watch?v=FekezpGUPAM&list=PLoiqjtgvXf9cgQbnEyRpT8FmtAZHUHG2O&index=10)
 
 - [Data Modifiers p2](https://www.youtube.com/watch?v=wYvpmKeE-zU&list=PLoiqjtgvXf9cgQbnEyRpT8FmtAZHUHG2O&index=11)
+
+- [Data Modifiers Quiz](https://forms.gle/b1m7TUT7a92icAno7)
+
 <p>&nbsp;</p>
 
 #### Day 3 & 4 & 5
@@ -102,6 +105,8 @@
 <p>&nbsp;</p>
 
 * [functions Quiz](https://forms.gle/VebYK7VhNLh78Dkw9)
+
+* [functions Task](https://drive.google.com/file/d/1MVqpTFctDlvafJHcFWczUVQYN1kCUtlw/view?usp=drive_link)
 
 
 <p>&nbsp;</p>
