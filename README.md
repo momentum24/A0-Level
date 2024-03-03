@@ -102,3 +102,42 @@
 <p>&nbsp;</p>
 
 * [functions Quiz](https://forms.gle/VebYK7VhNLh78Dkw9)
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+## Week_Three
+
+### Content
+
+~~~
+- Revision on Pointers
+- Array
+- String
+- Preprocessor Directives
+~~~
+
+#### Day 1 & 2
+
+- revision on pointers and recape session
+
+
+#### Day 3 & 4
+
+
+- [Array P1](https://youtu.be/husQUBc7B2s?si=Oh4KS4oqKGLlaaS3)
+
+- [Array P2](https://youtu.be/Bdr1SokPAr8?si=-pAJfYSkknLUDTCF)
+
+
+#### Day 5 & 6 & 7
+
+
+- [String in C](https://youtu.be/sV38pLKb7Gs?si=zAhJbWk1iliH5C6w)
+
+- [Preprocessor Directives p1 ](https://youtu.be/bXs9xZm3ZxI?si=Zl8famArrnoDXCBu) `Start at minute 16`
+
+- [Preprocessor Directives p2 ](https://youtu.be/LFoOi5qqVCY?si=y6Hqhz-y9nJBiwgG)
+
+
