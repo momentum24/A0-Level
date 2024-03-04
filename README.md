@@ -79,9 +79,9 @@
 
 - [function p2](https://www.youtube.com/watch?v=dNoKxMeCeGw&list=PLoiqjtgvXf9cgQbnEyRpT8FmtAZHUHG2O&index=9)
 
-* [functions Quiz](https://forms.gle/VebYK7VhNLh78Dkw9)
+- [functions Quiz](https://forms.gle/VebYK7VhNLh78Dkw9)
 
-* [functions Task](https://drive.google.com/file/d/1MVqpTFctDlvafJHcFWczUVQYN1kCUtlw/view?usp=drive_link)
+
 <p>&nbsp;</p>
 
 #### Day 2
