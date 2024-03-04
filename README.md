@@ -79,8 +79,9 @@
 
 - [function p2](https://www.youtube.com/watch?v=dNoKxMeCeGw&list=PLoiqjtgvXf9cgQbnEyRpT8FmtAZHUHG2O&index=9)
 
-- [functions Quiz](https://forms.gle/VebYK7VhNLh78Dkw9)
+- [functions Quiz](https://forms.gle/c1qsYHXHXoxqVyBN9)
 
+- [functions Task](https://drive.google.com/file/d/1utKxDq0NSy-4sV7uBbJN1a4H4jOfyCVc/view?usp=sharing)
 
 <p>&nbsp;</p>
 
