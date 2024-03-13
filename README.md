@@ -149,3 +149,21 @@
 - [Preprocessor Directives p2 ](https://youtu.be/LFoOi5qqVCY?si=y6Hqhz-y9nJBiwgG)
 
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+## Week_Four
+
+### Content
+
+~~~
+- struct
+- union
+- enum
+~~~
+
+- [struct & Union](https://youtu.be/zmRxC7gYw-g?si=7MrHvU_3q-0nVDFV)
+
+- [enum](https://www.youtube.com/watch?v=9QdJExC2AVg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=Show+Some+❤️;لاڤ+يو+أول)](https://git.io/typing-svg)</h1>
