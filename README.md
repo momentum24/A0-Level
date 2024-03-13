@@ -166,4 +166,4 @@
 
 - [enum](https://www.youtube.com/watch?v=9QdJExC2AVg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=Show+Some+❤️;لاڤ+يو+أول)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=اڤ+يو+أو;❤️+اجمد+كدا)](https://git.io/typing-svg)</h1>
