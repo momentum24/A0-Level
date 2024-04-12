@@ -179,6 +179,11 @@
 - Sheet One PS
 ~~~
 
+
+[Dynamic Allocation](https://youtu.be/Vch7_YeGKH4?si=0w13o5Yg7iA6G4S_)
+
+سيرش علي باقي الفيديوهات لانك كدا كدا هتستخدمه في البروجكت
+
 [Final Project](https://drive.google.com/file/d/19b0JetoqOXtU58DdaDKqSOpmlxnNk2Na/view?usp=sharing)
 
 [ICPC Sheet](https://codeforces.com/group/5pUldkahAU/contest/508284)
