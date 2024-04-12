@@ -178,4 +178,4 @@
 - Final Project
 ~~~
 
-<img src = "https://github.com/mmmmm222/Problem-Solving/assets/95083236/954d6a65-f2d8-4b16-adac-d2978dfd042e" width ="800" height = "700" >
+<img src = "https://github.com/mmmmm222/Problem-Solving/assets/95083236/954d6a65-f2d8-4b16-adac-d2978dfd042e" width ="850" height = "750" >
