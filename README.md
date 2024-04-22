@@ -168,6 +168,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=🕌+🌙+رمضان+كريم)](https://git.io/typing-svg)</h1>
 
+<p>&nbsp;</p>
 
 ## Week_Five
 
@@ -190,3 +191,21 @@
 [ICPC Sheet](https://codeforces.com/group/5pUldkahAU/contest/508284)
 
  هو دا اللي كان مستنيك بعد العيد يصحبي 😡😡
+
+
+<p>&nbsp;</p>
+
+## Week_Six
+
+```
+- starting Arduino
+```
+
+هنبدأ نتعلم اردوينو مش هناخد فيه وقت كبير لأن كدا كدا هناخد ال ATmega32 بالتفصيل المطلوب انك تشوف الفيديوهات اللي تحت دي وتشتغل علي بروتس تطبق علي كل حاجه هو هيعملها في الفيديو ولو وتدور علي الكمبوننت اللي هو شغال بيها وتجيب المكتبه بتاعتها وترفع الفيديوهات علي الدرايف الموضوع بسيط خالص وممتع جدا
+
+
+- [Arduino](https://youtu.be/1IEqJjPIm8w?si=7EtXZEbC81C5vqlm)
+
+- [tools](https://docs.google.com/document/d/173chJfznE3p-TCp5e0lOAQSvGLEt8m5dL623zX8GJsI/edit)
+
+- [setup tools](https://drive.google.com/drive/search?q=Mohamed%20Awadin)
