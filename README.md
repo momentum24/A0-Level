@@ -209,3 +209,11 @@
 - [tools](https://docs.google.com/document/d/173chJfznE3p-TCp5e0lOAQSvGLEt8m5dL623zX8GJsI/edit)
 
 - [setup tools](https://drive.google.com/drive/search?q=Mohamed%20Awadin)
+
+
+## Week_Seven
+
+- using arduino uno and l298 motor driver on protus => control two motors forward and backward
+
+- search on mpu6050 and how to use it
+
